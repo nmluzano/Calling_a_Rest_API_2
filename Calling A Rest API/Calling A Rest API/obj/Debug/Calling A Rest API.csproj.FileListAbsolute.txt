@@ -1,0 +1,20 @@
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\bin\Debug\Calling A Rest API.exe.config
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\bin\Debug\Calling A Rest API.exe
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\bin\Debug\Calling A Rest API.pdb
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\bin\Debug\RestSharp.dll
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\bin\Debug\RestSharp.xml
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API.csprojAssemblyReference.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\MainWindow.g.cs
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\App.g.cs
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API_MarkupCompile.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API_MarkupCompile.lref
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\MainWindow.baml
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API.g.resources
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling_A_Rest_API.Properties.Resources.resources
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API.csproj.GenerateResource.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API.csproj.CoreCompileInputs.cache
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API.csproj.CopyComplete
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API.exe
+C:\Users\Nicole\Desktop\MAJOR ICT\Project\API\Calling A Rest API\Calling A Rest API\obj\Debug\Calling A Rest API.pdb
